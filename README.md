@@ -9,7 +9,6 @@ under various loads and conditions.
 In this work, we present a method for 
 creating a finite element model (FEM) 
 in Matlab to solve heat transfer problems. 
-
 The FEM developed in this work allows the 
 user to analyze the temperature distribution 
 in a structure or system under specified heat 
@@ -17,7 +16,6 @@ sources and boundary conditions. The FEM is
 created using a mesh of interconnected elements, 
 each with defined material properties and heat 
 transfer characteristics. 
-
 The global stiffness 
 matrix is assembled to represent the overall 
 heat transfer characteristics of the structure 
