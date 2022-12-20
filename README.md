@@ -5,8 +5,7 @@
 Finite element analysis (FEA) is a
 widely used technique for analyzing
 the behavior of structures and systems 
-under various loads and conditions.  
-In this work, we present a method for 
+under various loads and conditions. In this work, we present a method for 
 creating a finite element model (FEM) 
 in Matlab to solve heat transfer problems. 
 The FEM developed in this work allows the 
