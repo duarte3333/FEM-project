@@ -37,11 +37,11 @@ we compared the results obtained by Matlab
 with a commercial software already quite 
 successful called Siemens NX.
 ![Screenshot from 2022-12-20 21-05-57](https://user-images.githubusercontent.com/76222459/208766737-67eb36ba-30a7-40a2-be3b-73c85785ed10.png)
-On the left side is the distribution of the temperature 
-on NX and in the right side the obtained in the Matlab.
+On the left is the distribution of the temperature 
+obtained on Siemens NX and in the right the obtained in the Matlab.
 ![Screenshot from 2022-12-20 21-06-27](https://user-images.githubusercontent.com/76222459/208767018-5eb7009d-22ce-4675-8596-63c0e6c24968.png)
-On the left side is the heat flux distribution
-on NX and in the right side the obtained in the Matlab.
+On the left is the heat flux distribution
+obtained on Siemens NX and in the right the obtained in the Matlab.
 
 ## Flowchart
 
